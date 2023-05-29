@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/rifqimubarok20/github-readme-activity-graph"><img alt="Rifqi Fauzi Mubarok's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rifqimubarok20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Rifqi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rifqimubarok20&theme=react-dark)](https://github.com/rifqimubarok20/github-readme-activity-graph)
 
 <br/>
 <br/>
