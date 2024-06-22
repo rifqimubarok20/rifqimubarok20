@@ -23,11 +23,13 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=lRjcvhvtR81o&format=png"/> </a>
     <a href="https://codeigniter.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=r4UrHt1gLC2t&format=png"/> </a>
+    <a href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/express-js.png"/> </a>
     <a href="https://flutter.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
