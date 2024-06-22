@@ -24,6 +24,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=lRjcvhvtR81o&format=png"/> </a>
     <a href="https://codeigniter.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=r4UrHt1gLC2t&format=png"/> </a>
